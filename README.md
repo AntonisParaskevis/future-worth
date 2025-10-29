@@ -5,11 +5,11 @@ A Python script that calculates the future worth of an investment.
 Python 3.x
 
 # Download
-Click the Code button, then click "Download ZIP
+Click the Code button, then click on "Download ZIP"
 
 OR
 
-Click the future_worth.py file, then press the Download Raw File button
+Click the future_worth.py file, then click on the Download Raw File button
 
 # Usage
 1. Enter the capital in dollars. It must be a positive number, either integer or decimal. Then, press Enter.
